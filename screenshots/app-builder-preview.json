@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "KEEL",
+      "hasCanvas": true,
+      "bodyTextLen": 1238,
+      "bodyTextHash": "94706dd6b5e60cff7dacbffa26db08f2cc0bc75b1037fc118061c39e7b7e0d42",
+      "bodyTextPrefix": "KEEL PARAMETRIC EQ Play 1 House Boom Broken BPM − + SWING 14 Pum",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "KEEL",
+      "hasCanvas": true,
+      "bodyTextLen": 1208,
+      "bodyTextHash": "265b66375343b5f719356fa7f7402cb4de3f6d2e7a9bace5833b6571da8f4bfd",
+      "bodyTextPrefix": "KEEL PARAMETRIC EQ Play 1 House Boom Broken BPM − + SWING 14 Pum",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

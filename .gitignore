@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+.output/
+.vercel/output/
+.tanstack/
+
+# Vercel
+.vercel/
+
+# Environment / secrets — never commit these
+.env
+.env.*
+!.env.example
+
+# Grok workspace runtime state (the app itself needs .grok/app-env.json, which stays tracked)
+.grok/preview.log
+.grok/preview.pid
+.grok/status/
+
+# Unused generated art from the Grok workspace (not referenced by the app)
+artifacts/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
